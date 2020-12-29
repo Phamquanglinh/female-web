@@ -8,12 +8,94 @@ html {
 .container{
     width: 1000px;
     margin: auto;
+    position: relative;
+    box-shadow: 1px 1px 8px #000000c7;
+}
+.clearfix{
+    clear: both;
+    padding-top: 89px;
+}
+/*Menu*/
+.nav-bar{
+    position: fixed;
+    padding: 44px 0px 44px 0px;
+    background: white;
+    width: 1000px;
+    z-index: 99999;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+}
+.menu ul{transition: 4s}
+.menu ul li{display: inline;font-size: 28px;font-family: ÃƒÂ¥Ã‚Â¾Ã‚Â®ÃƒÂ¨Ã‚Â»Ã…Â¸ÃƒÂ¦Ã‚Â­Ã‚Â£ÃƒÂ©Ã‚Â»Ã¢â‚¬ËœÃƒÂ©Ã‚Â«Ã¢â‚¬Â, "Microsoft JhengHei", sans-serif;margin: 10px;}
+.menu ul li:hover{cursor: pointer;color: #F462A7 !important}
+.logo{
+    float: left;
+    font-size: 51px;
+    margin-left: 32px;
+}
+.collspan-btn{display: none}
+.float-right{
+    float: right;
+}
+.collspan-btn{
+    margin-top: 12px;
+    margin-right: 8px;
+    height: 35px;
+    width: 35px;
+    position: relative;
+    zoom: 3;
+    background: none;
+    border: none;
+    display: none;
+}
+.collspan-btn span{
+    height: 2px;
+    width: 100%;
+    background: #444;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    transition: all 0.2s ease;
+}
+.collspan-btn span:nth-child(1) {
+    top: 0;
+}
+.collspan-btn span:nth-child(2) {
+    top: 15px;
+}
+.collspan-btn span:nth-child(3) {
+    top: 30px;
+}
+.collspan-btn.open span:nth-child(1) {
+    transform: translate(0,15px) rotate(-45deg);
+}
+.collspan-btn.open span:nth-child(2) {
+    opacity: 0;
+}
+.collspan-btn.open span:nth-child(3) {
+    transform: translate(0,-15px) rotate(45deg);
+}
+@media screen and (max-width: 600px){
+    .collspan-btn{display: block;position: absolute;top: 0;right: 0;}
+    .menu ul li{display: block;}
+    #dropmenu {display: none;clear: both;float: none;/* margin-left: 28px; */padding: 32px;}
 
 }
+
+/*Header*/
 .head{
     background: url("Image/head.jpg");
     height: 1858px;
 }
+
 .have-btn-1{
     background: url("Image/have-button-01.jpg");
     height: 1468px;
