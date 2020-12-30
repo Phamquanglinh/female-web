@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d611b97-d11a-43b5-896a-d86c7b35b29c" name="Default Changelist" comment="" />
+    <list default="true" id="7d611b97-d11a-43b5-896a-d86c7b35b29c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js/q and a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/best-2-img.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Images/best-2-img.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/big-button.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/big-button.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/q&amp;a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/q&amp;a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/small-btn.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/small-btn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +24,12 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mKIldRKv6GNcWEbyiaLoMMc53e" />
   <component name="ProjectViewState">
@@ -28,6 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -41,10 +55,25 @@
       <option name="presentableId" value="Default" />
       <updated>1609236007283</updated>
       <workItem from="1609236008399" duration="7514000" />
+      <workItem from="1609243674473" duration="14146000" />
+      <workItem from="1609289686640" duration="1065000" />
+      <workItem from="1609296869164" duration="1883000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
