@@ -553,7 +553,7 @@ a.anim-btn img{
 .panel {
     color: #9e526d;
     background-color: #fff;
-    display: none;
+    /*display: none;*/
     overflow: hidden;
     font-size: 100%;
     padding: 4%;
