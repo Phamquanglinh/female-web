@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7d611b97-d11a-43b5-896a-d86c7b35b29c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/TB_female_coding.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/best-3-main.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/best-3-main.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/video-1609301006.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/q and a.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/q and a.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swipper.css" beforeDir="false" afterPath="$PROJECT_DIR$/swipper.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,8 @@
       <workItem from="1609243674473" duration="14146000" />
       <workItem from="1609289686640" duration="1065000" />
       <workItem from="1609296869164" duration="2889000" />
-      <workItem from="1609315717038" duration="5128000" />
+      <workItem from="1609315717038" duration="8377000" />
+      <workItem from="1609328064346" duration="3791000" />
     </task>
     <servers />
   </component>
