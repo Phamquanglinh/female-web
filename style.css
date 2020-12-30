@@ -536,7 +536,7 @@ a.anim-btn img{
 /* Style the buttons that are used to open and close the accordion panel */
 .accordion {
     background:url("Images/acc-bg.png");
-    color: ffe05d;
+    color: #ffe05d;
     cursor: pointer;
     padding: 2%;
     width: 100%;
@@ -564,9 +564,10 @@ a.anim-btn img{
     margin-bottom: 3%;
 }
 .q-a{
-    background: url("Images/qa-backgound.jpg");
+    background: url("Images/q-a-bg.png");
     padding: 9%;
     margin-top: -3px;
+    background-size: cover;
 }
 
 /*Offer 1*/
